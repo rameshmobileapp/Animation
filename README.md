@@ -7,6 +7,7 @@ Animations are not just “visual effects”—they are part of UX, clarity, per
 - Screen transitions explain navigation direction
 - Button press ripple shows interaction feedback
 - Expanding cards / dropdowns show a natural flow
+  
 👉 Without animation, UI feels mechanical and confusing.
 
 #### To Provide Visual Hierarchy
@@ -14,6 +15,7 @@ Animations are not just “visual effects”—they are part of UX, clarity, per
 
 - FAB pops slightly on change → indicates priority action.
 - Selected card scales or changes color → identifies active state.
+  
 👉 Animation acts as a “guide” to the user’s focus.
 
 #### To Make App Feel Smooth & Polished
@@ -22,6 +24,7 @@ Animations are not just “visual effects”—they are part of UX, clarity, per
 - Smooth fade-in for images
 - Shimmer animation for loading state
 Animated visibility for empty/filled UI
+
 👉 Animation makes even simple apps feel modern.
 
 #### To Communicate State Changes Clearly
@@ -30,6 +33,7 @@ Animated visibility for empty/filled UI
 - Progress indicator
 - Heart icon filling when liked
 - Cart icon shaking when item added
+  
 👉 Motion communicates better than static change.
 
 #### To Increase User Engagement
@@ -38,6 +42,7 @@ Animated visibility for empty/filled UI
 - Onboarding screens with subtle motion
 - Payment success tick with bounce
 - Reward animations in e-commerce
+  
 👉 Better engagement → more user retention.
 
 #### To Mask Latency or Loading Time
@@ -46,6 +51,7 @@ Animated visibility for empty/filled UI
 - Shimmer UI while loading data
 - Pulse animation in empty states
 - Transition animation while fetching next page
+  
 👉 Users feel app is faster even if backend isn't.
 
  #### Compose Makes Animations Easy & Reliable
@@ -64,6 +70,7 @@ Animated visibility for empty/filled UI
 - Smoother (runs on Compose runtime)
 - Easy to coordinate multi-property transitions
 Follows Material Motion automatically
+
 👉 As a senior engineer, this reduces maintenance cost.
 
 #### Better Performance
@@ -72,4 +79,5 @@ Follows Material Motion automatically
 - Use the same rendering pipeline as UI
 - Avoid heavy View invalidation
 - Support high FPS by default
+  
 👉 Meaning smooth animations with fewer CPU/GPU hits.
