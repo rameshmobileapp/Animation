@@ -1,10 +1,10 @@
-# 🚀 The Essential Role of Animations in User Experience (UX)
+#  The Essential Role of Animations in User Experience (UX)
 
 Animations are not just “visual effects”—they are a **critical part of UX**, clarity, performance perception, and user engagement. Integrating motion is essential for building modern, high-quality applications.
 
 ---
 
-## 🎯 Why Animations Are Non-Negotiable
+## Why Animations Are Non-Negotiable
 
 ### 1. Animations Improve User Understanding and Clarity
 
